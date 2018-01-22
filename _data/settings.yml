@@ -25,7 +25,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: 'UA-112847486-1'
 
 #-------------------------------
 # Disqus Section
@@ -33,20 +33,19 @@ google-analytics-ua: 'UA-112060364-3'
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'thathungrymind'
+  disqus_shortname: ''
 
 #-------------------------------
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
-
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  # About
+  This is my personal website that contains various projects I have worked on or are currently working on. I may also have some writeups of any interesting things I am currently learning or find.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](mailto:dylannakahodo@gmail.com).
 
 #-------------------------------
 # Work Section
