@@ -1,6 +1,5 @@
 ---
 layout: post
-image: /assets/img/projects/adventure-portal-logo.png
 title: Adventure Portal
 permalink: projects/adventure-portal
 date: 2017
