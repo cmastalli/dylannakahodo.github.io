@@ -62,10 +62,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/dylannakahodo'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/dylan-nakahodo/'}
+- {icon: 'envelope', link: 'mailto:dylannakahodo@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
