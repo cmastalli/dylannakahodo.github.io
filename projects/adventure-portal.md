@@ -18,7 +18,7 @@ summary: Web Application that helps users find different adventures around Oahu 
 
 For this project, my responsibilities were creating the User Profile Page, the Edit Profile Page, the detailed Adventure Page, and the Find Adventure page.  I also implemented a feature that allows users to save their favorite adventures to their profile.  I also worked on connecting the database to the user's profile page and the Find Adventures Page. A screenshot of the user profile page can be seen below.
 
-![alt text](/assets/img/projects/ap-profile-page.png)
+![alt text](/assets/img/projects/adventure-portal/ap-profile-page.png)
 
 Working on this project helped me learn project management skills through GitHub.  We would create different "issues" on our GitHub repo for each feature we wanted to implement on this project.  We set three different Milestones with hard deadlines and assigned different issues to each Milestone, and any issues that weren't completed by the Milestone deadline were pushed back to the following Milestone.  I feel like this process of issue-driven development is really useful as it allows the developer to have a more focused approach to each task, since an issue is only assigned to one developer.  Also, having hard deadlines is really useful to stay on task and practice better time-management.  For the most part, although this seemed like a huge undertaking at first, we were able to get through it fairly smoothly because we communicated any problems we had early on and helped each other work through it. 
 
