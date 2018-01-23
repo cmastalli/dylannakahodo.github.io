@@ -19,6 +19,6 @@ The following are features I want to include for my site:
 Hopefully I can finish all of this before the end of the week.
 
 ## Future Plans
-I hope to use this site not only for my portfolio, but also to document and record my progress on different projects/online courses.  I hope to post a blog post at least every couple of days.
+I hope to use this site not only for my portfolio, but also to document and record my progress on different projects/online courses on my path to becoming a Data Scientist.  I hope to post a blog post at least every couple of days.
 
 That's all for now!
