@@ -7,7 +7,12 @@ title: Projects
 
 	{% for project in site.data.settings.projects %}
 	<a href="{{ site.github.url }}/{{ project.file }}">
-		<div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.folder }}/thumb.jpg)">
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					{{ project.name }}
+				</div>
+			</div>
 		</div>
 	</a>
 	{% endfor %}
