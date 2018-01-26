@@ -45,7 +45,7 @@ about: >
   Hi, thanks for taking the time to stop by.  My name is Dylan and I recently graduated from the University of Hawaii at Manoa with a BS in Computer Engineering.  I am currently seeking a full-time role as a Data Analyst/Scientist. My interests include machine learning, data analysis and visualization, and anything Python.  
   
   
-  <img src="/assets/img/sunset_banner.jpg" width="700" height="525" display="block" style="text-align:center">  
+  <img src="/assets/img/sunset_banner.jpg" max-width="100%" height="525" display="block" style="text-align:center">  
   
   
   On this site you'll find various projects I have worked on either on the side or as part of coursework in college. I also have a blog where I'll write about various topics from machine learning to web development.  I will also use it to track my progress through various MOOCs or other online courses. 
