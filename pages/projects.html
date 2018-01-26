@@ -3,17 +3,4 @@ layout: default
 title: Projects
 ---
 
-<div class="row">
-
-	{% for project in site.data.settings.projects %}
-	<a href="{{ site.github.url }}/{{ project.file }}">
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="panel panel-primary">
-				<div class="panel-heading">
-					{{ project.name }}
-				</div>
-			</div>
-		</div>
-	</a>
-	{% endfor %}
-</div>
+{% include thumbnails.html}
