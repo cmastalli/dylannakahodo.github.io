@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include about.html %}
+{{ site.data.settings.about | markdownify }}
 
 {% include footer.html %}
