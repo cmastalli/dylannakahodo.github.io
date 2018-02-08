@@ -14,7 +14,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Carlos Mastalli is a robotics research focused on multi-contact planning and control for legged robots. He is main motivation is to enable robots (e.g. HyQ, HRP-2, Talos, Atlas) to move everywhere by combining optimal control and machine learning.'
+  description: 'Carlos Mastalli is a robotics researcher focused on multi-contact planning and control for legged robots. He is main motivation is to enable robots (e.g. HyQ, HRP-2, Talos, Atlas) to move everywhere by combining optimal control and machine learning.'
   rel-author: 'Carlos Mastalli'
   rel-publisher: 'Carlos Mastalli'
 
