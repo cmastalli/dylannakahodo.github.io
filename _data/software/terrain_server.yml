@@ -1,0 +1,14 @@
+software: >
+
+  #### [Terrain mapping algorithm for motion planning and control in legged locomotion](https://github.com/robot-locomotion/terrain-server)
+
+  <img src="https://i.imgur.com/RKe3sNo.gif" align="right" alt="Drawing" style="height: 220px; margin:0px 10px;"/>
+
+  The terrain server computes a risk associate to the terrain (i.e. terrain costmap) and its surface; information important for motion planning and control in legged locomotion. The terrain costmap quantifies how desirable it is to place a foot at a specific location. The cost value for each voxel in the map is computed using geometric terrain features such as height deviation, slope and curvature. It computes the slope and curvature through regression in a configurable window around the cell in question; the features are computed from a Octomap map. For instance, the estimated surface normals and curvatures are computed from a set of neighboring occupied voxels. It terrain servers is used in the different motion planning and control methods, see publication section.
+
+
+  <span class="fa fa-github" aria-hidden="true" title="Github"></span>
+  <a target="_blank" href="https://github.com/robot-locomotion/terrain-server" title="Github"> 
+     https://github.com/robot-locomotion/terrain-server
+  </a>
+

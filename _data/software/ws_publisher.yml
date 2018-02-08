@@ -1,0 +1,26 @@
+software: >
+
+  #### [Whole-body state publisher](https://github.com/robot-locomotion/wb-state-publisher) [and visualization plugins of whole-body state, trajectories and terrain maps](https://github.com/robot-locomotion/dwl-rviz-plugin)
+
+  <img src="https://i.imgur.com/TUrgkzO.gif" align="right" alt="Drawing" style="height: 220px; margin:0px 10px;"/>
+
+  The wb_state_publisher is a ros controller that publishes the actual whole-body state of the robot. The whole-body state is described as ROS message (i.e. dwl_msgs/WholeBodyState) inside dwl_msgs. This message structure can be transformed to the dwl::WholeBodyState class which contains functions that allows us to get the robot state in the desired frame (e.g. world, base and horizontal). For using this ros control plugin, it is required to define a ros_control::JointStateInterface hardware interface.
+
+
+  The dwl_rviz_plugin contains a set of tools and plugins for visualization of: the whole-body state of the robot (dwl_rviz_plugin::WholeBodyStateDisplay), the whole-body trajectory (dwl_rviz_plugin::WholeBodyTrajectoryDisplay), the terrain map (dwl_rviz_plugin::TerrainMapDisplay), the footstep regions (dwl_rviz_plugin::FootstepRegionDisplay), etc. These plugins subscribe to the standarized dwl messages (for more information see https://github.com/robot-locomotion/dwl-msgs).
+
+
+  You can also have tools that allows us to create our custom plugin such as: points (dwl_rviz_plugin::PointVisual), lines (dwl_rviz_plugin::LineVisual), polygons (dwl_rviz_plugin::PolygonVisual), arrows (dwl_rviz_plugin::ArrowVisual), etc.
+
+
+  <span class="fa fa-github" aria-hidden="true" title="Github"></span>
+  <a target="_blank" href="https://github.com/robot-locomotion/wb-state-publisher" title="Github"> 
+     https://github.com/robot-locomotion/wb-state-publisher
+  </a>
+  
+
+  <span class="fa fa-github" aria-hidden="true" title="Github"></span>
+  <a target="_blank" href="https://github.com/robot-locomotion/dwl-rviz-plugin" title="Github"> 
+     https://github.com/robot-locomotion/dwl-rviz-plugin
+  </a>
+
