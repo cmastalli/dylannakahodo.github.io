@@ -53,7 +53,7 @@ about: >
   I am a robotics researcher in the [Gepetto Team](http://projects.laas.fr/gepetto/) at LAAS-CNRS working on the topic of multi-contact planning and control in legged robots. My main motivation is to enable robots to move everywhere. In particular, I am focused on legged locomotion since it combines all the main challenges in robot mobility: high-dimensional and unactuated systems, discontinuous dynamics, robot interaction and perception. For that, I am interested in methods that combine optimal control and machine learning, allowing us to explore the knowledge of the system but also the vast robot's data.
   
     
-  I completed my PhD on "[Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain](/publications/cmastalli_thesis.pdf)" in April 2017 in the [Dynamic Legged System lab](https://dls.iit.it/) at Istituto Italiano di Tecnologia. After that, I served as Research Fellow from April to December 2017. During this period, I mainly contributed to planning, perception and control framework for legged locomotion on challenging terrain. He also considerably contributed to the software development of the team.
+  I completed my PhD on "[Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain](/pages/thesis.html)" in April 2017 in the [Dynamic Legged System lab](https://dls.iit.it/) at Istituto Italiano di Tecnologia. After that, I served as Research Fellow from April to December 2017. During this period, I mainly contributed to planning, perception and control framework for legged locomotion on challenging terrain. He also considerably contributed to the software development of the team.
 
 
 #-------------------------------
