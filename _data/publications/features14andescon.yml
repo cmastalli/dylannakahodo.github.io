@@ -1,0 +1,13 @@
+research: >
+
+  #### [Extracting Points Features from Laser Rangefinder Data Based on Hough Transform (ANDESCON)](/publications/features14andescon.pdf)
+  
+  This paper describes a novel feature extraction method for laser rangefinder data. Extracted features correspond to real and virtual corners of the scanned scene. The method is based on the Hough Transform (HT) for line extraction, where the intersecting points of these lines are considered as features. This work highlights the use of the HT outside of image applications, and presents a new filtering algorithm that reduces false positive in line detection by the HT based method. The developed method was tested under various simulated benchmarks in order to compare the performance as a function of correctness, uncertainty, execution time and other parameters. Also, a real data benchmark was included in the tests. Finally, a simulation of EKF-SLAM was performed to demonstrate the functionality of the developed method in more complex tasks.
+
+  <a href="/publications/features14andescon.pdf">
+    <img src="/assets/img/download.png" alt="Drawing" style="height: 20px;"/>
+  </a>
+  <a href="/publications/bibtex/features14andescon.bib">
+    <img src="/assets/img/bibtex.jpeg" alt="Drawing" style="height: 20px;"/>
+  </a>
+

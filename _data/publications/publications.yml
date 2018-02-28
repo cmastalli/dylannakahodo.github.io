@@ -1,0 +1,88 @@
+papers: >
+
+  You can find a short description and extra material of each paper by clicking on the title.
+
+  #### Journals
+
+  <table>
+  <colgroup>
+    <col width="20%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/avoiding_slippage-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
+    <td markdown="span">[Motion planning for quadrupedal locomotion: coupled planning, terrain mapping and whole-body control](/pages/publications/locomotion17unpub.html).
+    **C. Mastalli**, M. Focchi, I. Havoutis, D. G. Caldwell and C. Semini
+    <br> *(under-review)*</td>
+  </tr>
+  <tr height ="10px"></tr>  
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/torque_limits-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
+    <td markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/pages/publications/gait17ral.html).
+    B. Aceituno, **C. Mastalli**, H. Dai, M. Focchi, A. Radulescu, D. G. Caldwell, J. Cappelletto, J. C. Grieco, G. Fernandez and C. Semini
+    <br> *IEEE Robotics and Automation Letters (RAL), 2017*</td>
+  </tr>
+  <tr height ="10px"></tr>  
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/fwp_walk-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtube.com/embed/X36PLdTNr6U)</td>
+    <td markdown="span">[A Feasibility Metric for Trajectory Optimization of Legged Robots using Wrench Polytopes](/pages/publications/feasibility18unpub.html).
+    R. Orsolino, M. Focchi, **C. Mastalli**, H. Dai, D. G. Caldwell and C. Semini
+    <br> *(under-review)*</td>
+  </tr>
+  </tbody>
+  </table>
+
+
+  #### Conferences
+
+  <table>
+  <colgroup>
+    <col width="20%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/coupled_plan-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=79bb2KTULrw)</td>
+    <td markdown="span">[Trajectory and Foothold Optimization using Low-Dimensional Models for Rough Terrain Locomotion](/pages/publications/coupled17icra.html).
+    **C. Mastalli**, M. Focchi, I. Havoutis, A. Radulescu, S. Calinon, J. Buchli, D. G. Caldwell and C. Semini
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/leg_jump-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=nfe_T04q2Ds)</td>
+    <td markdown="span">[Hierarchical Planning of Dynamic Movements without Scheduled Contact Sequences](/pages/publications/hierarchical16icra.html). **C. Mastalli**, I. Havoutis, M. Focchi, D. Caldwell and C. Semini.
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2016*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/climbing_stairs-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=MF-qxA_syZg)</td>
+    <td markdown="span">[Planning and Execution of Dynamic Whole-Body Locomotion for a Hydraulic Quadruped on Challenging Terrain](/pages/publications/locomotion15icra.html). A. W. Winkler, **C. Mastalli**, I. Havoutis, M. Focchi, D. Caldwell and C. Semini.
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2015*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> <img src="/assets/img/publications/footstep_plan-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span">[On-line and on-board planning and perception for quadrupedal locomotion](/pages/publications/footstep15tepra.html). **C. Mastalli**, A. W. Winkler, I. Havoutis, M. Focchi, D. Caldwell and C. Semini.
+    <br> *IEEE International Conference on Technologies for Practical Robot Applications (TePRA), 2015*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> <img src="/assets/img/publications/holistic_control-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span">[Bio-inspired holistic control through modular relative Jacobian for combined four-arm robots](/pages/publications/holcontrol17icar.html). R. Jamisola and **C. Mastalli**.
+    <br> *International Conference on Advanced Robotics (ICAR), 2017*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> <img src="/assets/img/publications/autonomous_backhoe-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span">[A Proposed Architecture for Autonomous Operations in Backhoe Machines](/pages/publications/backhoe14ias.html). **C. Mastalli** and G. Fernandez-Lopez.
+    <br> *International Conference on Intelligent Autonomous Systems (IAS-13), 2014*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> <img src="/assets/img/publications/features_lidar.png" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span">[Extracting Points Features from Laser Rangefinder Data based on Hough Transform](/pages/publications/features14andescon.html). N. Certad, **C. Mastalli**, J. Cappelletto and J.C. Grieco.
+    <br> *IEEE ANDESCON, 2014*</td>
+  </tr>
+  </tbody>
+  </table>

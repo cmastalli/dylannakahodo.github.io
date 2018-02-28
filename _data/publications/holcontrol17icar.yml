@@ -1,0 +1,6 @@
+research: >
+
+  #### [Bio-inspired holistic control through modular relative Jacobian for combined four-arm robots (ICAR)](http://ieeexplore.ieee.org/abstract/document/8023631/)
+  
+  Biological limbs normally come in pairs: mammals have four, insects have six, arachnids have eight, and centipedes have one pair of legs per body segment. This work attempts to interpret the biological method of controlling paired legs (here treated as dual-arms) in opposite and adjacent pairs to achieve a holistic controller of a large four-legged animal (here treated as a combined four-arm robot). A modular relative Jacobian controls a dual-arm as a single manipulator with a single end-effector, and is expressed in terms of the Jacobians of each of the stand-alone manipulators. In this work, the two opposite pairs of legs are treated as single end-effector dual-arms, and then these two dual-arms are combined together to form a single end-effector four-arm robot. The four-arm controller uses the same principle as a single end-effector controller of a dual-arm, and thus results into a single end-effector controller of a four-arm. A modular relative Jacobian of the four arms is derived. Gazebo simulation results are shown for two gait patterns of a four-legged animal, namely, pacing and trotting.
+
