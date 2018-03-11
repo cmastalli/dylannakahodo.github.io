@@ -18,14 +18,14 @@ papers: >
   </tr>
   <tr height ="10px"></tr>  
   <tr>
-    <td markdown="span"> [<img src="/assets/img/publications/torque_limits-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
+    <td markdown="span"> [<img src="/assets/img/publications/torque_limits-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=RXIAQJx5938&t=2s)</td>
     <td markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/pages/publications/gait17ral.html).
     B. Aceituno, **C. Mastalli**, H. Dai, M. Focchi, A. Radulescu, D. G. Caldwell, J. Cappelletto, J. C. Grieco, G. Fernandez and C. Semini
     <br> *IEEE Robotics and Automation Letters (RAL), 2017*</td>
   </tr>
   <tr height ="10px"></tr>  
   <tr>
-    <td markdown="span"> [<img src="/assets/img/publications/fwp_walk-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtube.com/embed/X36PLdTNr6U)</td>
+    <td markdown="span"> [<img src="/assets/img/publications/fwp_walk-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=X36PLdTNr6U)</td>
     <td markdown="span">[A Feasibility Metric for Trajectory Optimization of Legged Robots using Wrench Polytopes](/pages/publications/feasibility18unpub.html).
     R. Orsolino, M. Focchi, **C. Mastalli**, H. Dai, D. G. Caldwell and C. Semini
     <br> *(under-review)*</td>
@@ -62,7 +62,7 @@ papers: >
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span"> <img src="/assets/img/publications/footstep_plan-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span"> [<img src="/assets/img/publications/footstep_plan-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=yrEOE0pZMlc)</td>
     <td markdown="span">[On-line and on-board planning and perception for quadrupedal locomotion](/pages/publications/footstep15tepra.html). **C. Mastalli**, A. W. Winkler, I. Havoutis, M. Focchi, D. Caldwell and C. Semini.
     <br> *IEEE International Conference on Technologies for Practical Robot Applications (TePRA), 2015*</td>
   </tr>
@@ -74,7 +74,7 @@ papers: >
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span"> <img src="/assets/img/publications/autonomous_backhoe-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span"> [<img src="/assets/img/publications/autonomous_backhoe-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/72QKPQGD8A4?t=20s)</td>
     <td markdown="span">[A Proposed Architecture for Autonomous Operations in Backhoe Machines](/pages/publications/backhoe14ias.html). **C. Mastalli** and G. Fernandez-Lopez.
     <br> *International Conference on Intelligent Autonomous Systems (IAS-13), 2014*</td>
   </tr>

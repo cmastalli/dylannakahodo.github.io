@@ -60,7 +60,7 @@ research: >
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span"> <img src="/assets/img/publications/footstep_plan-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/></td>
+    <td markdown="span"> [<img src="/assets/img/publications/footstep_plan-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=yrEOE0pZMlc)</td>
     <td markdown="span">[On-line and on-board planning and perception for quadrupedal locomotion](/publications/footstep15tepra.pdf). **C. Mastalli**, A. W. Winkler, I. Havoutis, M. Focchi, D. Caldwell and C. Semini.
     <br> *IEEE International Conference on Technologies for Practical Robot Applications (TePRA), 2015*</td>
   </tr>
