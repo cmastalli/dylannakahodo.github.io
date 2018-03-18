@@ -2,8 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: 'About', url: ''}
+#- {name: 'About', url: ''}
 - {name: 'Research', url: 'pages/research.html'}
+#- {name: 'Publications', url: 'pages/research.html'}
 - {name: 'Software', url: 'pages/software.html'}
 #- {name: 'Projects', url: 'pages/projects.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
