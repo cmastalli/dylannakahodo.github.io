@@ -34,9 +34,6 @@
   <!-- Use Atom -->
   {% feed_meta %}
 
-  {% include mathjs.html %}
-  {% include analytics.html %}
-
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
 
@@ -51,6 +48,8 @@
 
 </div>
 
+{% include mathjs.html %}
+{% include analytics.html %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="{{ site.github.url }}/assets/js/functions.js"></script>
 </body>
