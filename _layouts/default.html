@@ -7,24 +7,25 @@
   <meta charset="UTF-8">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} - Legged Robotics, Optimization & AI }}
+    {% else %}
+      {{ page.title }} - {{ site.title }}
+    {% endif %}
+  </title>
+
   <meta name="description" content="{{ site.data.settings.seo.description }}">
   <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
   <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
   <meta name="distribution" content="global">
-  <meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+  <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.settings.seo.description }}{% endif %}">
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://i.imgur.com/RKe3sNo.gif" />
   <meta property="og:site_name" content="{{ site.data.settings.seo.rel-author }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
 
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -34,8 +35,7 @@
   <!-- Use Atom -->
   {% feed_meta %}
 
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+
 
 </head>
 <body>
