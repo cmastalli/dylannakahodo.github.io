@@ -26,9 +26,9 @@ papers: >
   <tr height ="10px"></tr>  
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/fwp_walk-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=X36PLdTNr6U)</td>
-    <td markdown="span">[A Feasibility Metric for Trajectory Optimization of Legged Robots using Wrench Polytopes](/publications/feasibility18unpub.html).
+    <td markdown="span">[Application of Wrench based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots](/publications/feasibility18ral.html).
     R. Orsolino, M. Focchi, **C. Mastalli**, H. Dai, D. G. Caldwell and C. Semini
-    <br> *(under-review)*</td>
+    <br> *IEEE Robotics and Automation Letters (RAL), 2018*</td>
   </tr>
   </tbody>
   </table>
