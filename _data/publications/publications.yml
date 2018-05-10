@@ -86,3 +86,18 @@ papers: >
   </tr>
   </tbody>
   </table>
+
+  #### PhD Thesis
+
+  <table>
+  <colgroup>
+    <col width="20%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/avoiding_slippage-compressed.gif" width="83%" align="right" alt="Drawing" style="margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
+    <td markdown="span">[Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain](/publications/thesis.html).
+    **C. Mastalli**
+    <br> *Istituto Italiano di Tecnologia*</td>
+  </tr>
