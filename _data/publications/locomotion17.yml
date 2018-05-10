@@ -5,12 +5,11 @@ research: >
   <img src="/assets/img/publications/sloppy_snapshots.png" alt="Drawing" style="width: 100%;"/>
 
   <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
-    width="420" height="237"
+    width="56%" height="237"
     src="https://youtube.com/embed/KI9x1GZWRwE"
     style="float: right; "
     marginwidth="10">
   </iframe>
-
 
   Legged robots promise an advantage over traditional wheeled systems as they can offer greater mobility on challenging terrain. However, most legged robots are still confined to structured and flat environments. One of the main reasons for this is the difficulty in planning complex whole-body motions while taking into account the terrain conditions. Previous research in locomotion mainly focused either on generating reactive behaviors, that tackle only small terrain changes, or on kinematically planning foothold locations with partial terrain information. Alternatively, legged motion planning approaches focus on synthesizing complex whole-body motions, but often do not consider terrain characteristics. This problem is very high-dimensional as it considers the robot's dynamics together with the terrain model in a suitable problem formulation. In this work, we address these challenges by studying two different motion planning methods (decoupled and coupled foothold and motion planning), and by analyzing the effect of considering friction cones, kinematic limits and torque limits at the whole-body control level. For that, we first briefly introduce our decoupled motion planning approach. Second, we propose a novel trajectory and foothold optimization method that plans dynamically both foothold locations and CoM motions (coupled planning). This second method jointly optimizes body motion, step duration and foothold selection, considering the terrain topology. Finally, we introduce a whole-body controller that tracks compliantly trunk motions while avoiding slippage as well as kinematic and torque limits. Additionally, we impose friction cone constraints in real-time using terrain normals estimated from the terrain map. With this novel locomotion framework we can cross a wide range of terrain conditions—significantly more compared our previous approach—while we validate our novel framework on the hydraulic quadruped robot; HyQ. Additionally, our coupled motion planner can be easily generalize to various terrain conditions, thanks to a parametrized dynamic model, and an online terrain mapping that is used in our real-time whole-body controller. We report thorough experimental results and comparative evaluations over a set of terrains of progressively increasing difficulty.
 
