@@ -2,17 +2,17 @@ research: >
 
   #### [Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain](/publications/cmastalli_thesis.pdf)
   
-  <img src="/assets/img/publications/hyq.gif" align="right" alt="Drawing" style="height: 150px; margin:0px 10px"/>
+  <img src="/assets/img/publications/hyq.gif" align="right" width="40%" alt="Drawing" style="margin:0px 10px"/>
   
   Legged vehicles present a potential advantage over traditional wheeled systems since they offer greater mobility in rough and challenging terrain. However, most legged robots are still confined to structured and flat terrain. One of the main reasons for this is the difficulty in planning complex whole-body motions while taking into account future terrain conditions. Previous research in locomotion focused either on generating reactive behaviors that tackle small terrain changes or planning kinematically foothold locations with relative terrain information. Alternatively legged motion planning approaches focus on synthesizing complex whole-body motions but these do not consider the terrain characteristics.
   
   
-  <img src="/assets/img/publications/climbing_ramp.gif" align="left" alt="Drawing" style="height: 175px; margin:0px 10px"/>
+  <img src="/assets/img/publications/climbing_ramp.gif" align="left" width="45%" alt="Drawing" style="margin:0px 10px"/>
   
   The goal of this thesis is to close the gap between locomotion approaches and legged motion planning methods. With this, I aim to increase the locomotion The problem of planning motions for navigating on rough terrain is high-dimensional. For instance, we need to consider the robot's dynamics and the terrain model in a suitable formulation of the planning problem. This thesis addresses these challenges by presenting three different motion planning methods. I initially present a locomotion framework that plans online, and kinematically, the foothold sequences from the terrain costmap and then generates dynamic whole-body motions. For that, I developed a method that builds online and onboard the terrain costmap. Next, I brought the foothold kinematic planning and the dynamic execution closer by proposing a novel trajectory and foothold optimization method. This second method jointly optimizes body motion, step duration and foothold selection while considering terrain topology. Finally, I propose a hierarchical trajectory optimization method that synthesizes dynamic maneuvers by considering the contact forces. This last method can generate a wider range of behaviors by discovering possible contact sequences.
 
 
-  <img src="/assets/img/publications/leg_jump.gif" align="right" alt="Drawing" style="height: 175px; margin:0px 10px"/>
+  <img src="/assets/img/publications/leg_jump.gif" align="right" width="40%" alt="Drawing" style="margin:0px 10px"/>
   
   
   My motion planner methods allow the legged robot to cross various terrains, and to plan highly dynamic motions for complex tasks. Fist, unlike previous work, the locomotion framework can plan online and onboard motions from perceived terrain conditions. It exploits a terrain-aware heuristic function for reducing the computation time. Second, the trajectory and foothold optimization method allows the robot to adapt its walking gait timing while considering terrain topology. To the best of my knowledge, this is the first approach that automatically adapts the walking gait timing for rough terrain locomotion. Finally, the hierarchical trajectory optimization plans behaviors without scheduling a contact sequence. This method ensures the joint torque limits of the robot. My method is the first to have been validated in a real-system.
