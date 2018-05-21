@@ -20,6 +20,9 @@ research: >
   <a href="/publications/bibtex/gait17ral.bib">
     <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>
+  <a href="/publications/posters/gait18icra.pdf">
+    <img src="/assets/img/pdf-poster.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
 
   <div style="float: center; text-align:center;">
   <iframe src="//slides.com/cmastalli/gait17ral/embed"
