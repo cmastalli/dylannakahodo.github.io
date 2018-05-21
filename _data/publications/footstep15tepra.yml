@@ -15,9 +15,9 @@ research: >
   We present a legged motion planning approach for quadrupedal locomotion over challenging terrain. We decompose the problem into body action planning and footstep planning. We use a lattice representation together with a set of defined body movement primitives for computing a body action plan. The lattice representation allows us to plan versatile movements that ensure feasibility for every possible plan. To this end, we propose a set of rules that define the footstep search regions and footstep sequence given a body action. We use Anytime Repairing A* (ARA*) search that guarantees bounded suboptimal plans. Our main contribution is a planning approach that generates on-line versatile movements. Experimental trials demonstrate the performance of our planning approach in a set of challenging terrain conditions. The terrain information and plans are computed on-line and on-board.
 
   <a href="/publications/footstep15tepra.pdf">
-    <img src="/assets/img/download.png" alt="Drawing" style="height: 1.2em;"/>
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
   </a>
   <a href="/publications/bibtex/footstep15tepra.bib">
-    <img src="/assets/img/bibtex.jpeg" alt="Drawing" style="height: 1.2em;"/>
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>
 

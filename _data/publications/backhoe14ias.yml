@@ -12,11 +12,10 @@ research: >
 
   In this work is developed an architecture which consists four main components: perception system, tasks planning, motion planner and control systems that allow autonomous operations in backhoe machines. In the first part is described the architecture of control system. Thereafter, a set of techniques for collision mapping of the scene is described and implemented. Moreover, the development of motion planning system based on Learning from Demonstration using Dynamic Movement Primitives as control policy is proposed, which allows backhoe machines to perform operations in autonomous manner. A statement of reasons is presented, wherein we justified the implementation of such motion system versus planners like A*, Probabilistic RoadMap (PRM), Rapidly-exploring Random Tree (RRT), etc. In addition, we present the results of the architecture. Finally, the tests were performed in a simulation environment called Gazebo.
 
-
   <a href="/publications/backhoe14ias.pdf">
-    <img src="/assets/img/download.png" alt="Drawing" style="height: 1.2em;"/>
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
   </a>
   <a href="/publications/bibtex/backhoe14ias.bib">
-    <img src="/assets/img/bibtex.jpeg" alt="Drawing" style="height: 1.2em;"/>
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>
 

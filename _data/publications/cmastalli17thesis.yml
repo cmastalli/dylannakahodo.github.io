@@ -18,10 +18,10 @@ research: >
   My motion planner methods allow the legged robot to cross various terrains, and to plan highly dynamic motions for complex tasks. Fist, unlike previous work, the locomotion framework can plan online and onboard motions from perceived terrain conditions. It exploits a terrain-aware heuristic function for reducing the computation time. Second, the trajectory and foothold optimization method allows the robot to adapt its walking gait timing while considering terrain topology. To the best of my knowledge, this is the first approach that automatically adapts the walking gait timing for rough terrain locomotion. Finally, the hierarchical trajectory optimization plans behaviors without scheduling a contact sequence. This method ensures the joint torque limits of the robot. My method is the first to have been validated in a real-system.
   
   <a href="/publications/cmastalli_thesis.pdf">
-    <img src="/assets/img/download.png" alt="Drawing" style="height: 1.2em;"/>
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
   </a>
   <a href="/publications/bibtex/cmastalli17thesis.bib">
-    <img src="/assets/img/bibtex.jpeg" alt="Drawing" style="height: 1.2em;"/>
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>
 
 
