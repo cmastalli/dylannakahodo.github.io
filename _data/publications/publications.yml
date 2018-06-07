@@ -18,6 +18,13 @@ papers: >
   </tr>
   <tr height ="10px"></tr>  
   <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/heuristic_crawl-compressed.gif" align="right" alt="Drawing" style="width: 125px; margin:0px 10px"/>](https://www.youtube.com/watch?v=EUhw-aAFYrw)</td>
+    <td markdown="span">[Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](/publications/crawl18unpub.html).
+    M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, **C. Mastalli**, D. G. Caldwell and C. Semini
+    <br> *(under-review)*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
     <td markdown="span"> [<img src="/assets/img/publications/torque_limits-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=RXIAQJx5938&t=2s)</td>
     <td markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/publications/gait17ral.html).
     B. Aceituno, **C. Mastalli**, H. Dai, M. Focchi, A. Radulescu, D. G. Caldwell, J. Cappelletto, J. C. Grieco, G. Fernandez and C. Semini
