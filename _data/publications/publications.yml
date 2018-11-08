@@ -20,7 +20,7 @@ papers: >
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/wbcontrol-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=TODO)</td>
     <td markdown="span">[Passivity Based Whole-body Control for Quadrupedal Locomotion on Challenging Terrain](/publications/wbcontrol18unpub.html).
-    S. Fahmi, **C. Mastalli**, M. Focchi, D. G. Caldwell and C. Semini
+    S. Fahmi<sup>&#x2020;</sup>, **C. Mastalli**<sup>&#x2020;</sup>, M. Focchi, D. G. Caldwell and C. Semini
     <br> *(under-review)*</td>
   </tr>
   <tr height ="10px"></tr>
