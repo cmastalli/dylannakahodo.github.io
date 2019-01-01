@@ -96,7 +96,7 @@ papers: >
   <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/autonomous_backhoe-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/72QKPQGD8A4?t=20s)</td>
-    <td markdown="span">[A Proposed Architecture for Autonomous Operations in Backhoe Machines](/publications/backhoe14ias.html). **C. Mastalli** and G. Fernandez-Lopez.
+    <td markdown="span">[A Proposed Architecture for Autonomous Operations in Backhoe Machines](/publications/backhoe14ias.html). **C. Mastalli** and G. Fernández-López.
     <br> *International Conference on Intelligent Autonomous Systems (IAS-13), 2014*</td>
   </tr>
   <tr height ="10px"></tr>
@@ -122,3 +122,22 @@ papers: >
     **C. Mastalli**
     <br> *Istituto Italiano di Tecnologia*</td>
   </tr>
+  </tbody>
+  </table>
+
+  #### Master Thesis
+
+  <table>
+  <colgroup>
+    <col width="20%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/autonomous_backhoe-compressed.gif" width="83%" align="right" alt="Drawing" style="margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
+    <td markdown="span">[Learning from Demonstration using Dynamic Movement Primitives in Excavator Robots](/publications/master.html).
+    **C. Mastalli**
+    <br> *Simón Bolívar University*</td>
+  </tr>
+  </tbody>
+  </table>

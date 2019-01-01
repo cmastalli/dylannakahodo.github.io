@@ -1,0 +1,43 @@
+research: >
+
+  #### [Learning from Demonstration using Dynamic Movement Primitives in Excavator Robots](/publications/cmastalli_master.pdf)
+
+  <img src="/assets/img/publications/autonomous_backhoe.gif" align="right" width="40%" alt="Drawing" style="margin:0px 10px"/>
+
+  En el presente trabajo se desarrolla una arquitectura formada por un sistema de percepción, un planificador de movimientos, dos sistemas de control y uno de localización que permiten la generación autónoma de operaciones en máquinas retro-excavadoras. Este conjunto de sistemas son presentados en dos partes que están relacionados con los niveles de jerarquía, es decir, control y localización, y percepción y planificación. En este sentido en la primera parte se elaboran las arquitecturas de control y localización, en el cual se expone un análisis de estabilidad del controlador PID que permite la sintonización del mismo y un estudio e implementación de un Filtro de Kalman Extendido (EKF) para la estimación de la posición del sistema de control y localización, respectivamente. Posteriormente se implementan un conjunto de técnicas para el levantamiento de los mapas de colisión de la escena de la máquina. Además se propone el desarrollo de un sistema de planificación de movimiento basado en un esquema de Aprendizaje por Demostración usando Primitivas de Movimientos Dinámicos (DMP) como políticas de control, el cual permite efectuar de forma autónoma las distintas operaciones realizadas por una retro-excavadora. También se presenta la exposición de motivos, en el cual se justifica la implementación de dicho sistema de planificación versus planificadores como A∗ , Probabilistic RoadMap (PRM), Rapidly-exploring Randow Tree (RRT) y Campos Potenciales. Además en cada uno de los capítulos se presentan los resultados, aportes y conclusiones de cada una de los elementos desarrollados. Finalmente las pruebas fueron realizadas en un entorno de simulación llamado Gazebo debajo del meta-sistema operación para robots (ROS).
+
+  <a href="/publications/cmastalli_master.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/cmastalli13thesis.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+
+  #### Publications
+
+  <table>
+  <colgroup>
+    <col width="10%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/autonomous_backhoe-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/72QKPQGD8A4?t=20s)</td>
+    <td markdown="span">[A Proposed Architecture for Autonomous Operations in Backhoe Machines](/publications/backhoe14ias.html). **C. Mastalli** and G. Fernández-López.
+    <br> *International Conference on Intelligent Autonomous Systems (IAS-13), 2014*</td>
+  </tr>
+  <tr height ="10px"></tr>  
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/dmp_traj.png" align="right" alt="Drawing" style="height: 100px; margin:0px 10px"/>](https://youtu.be/72QKPQGD8A4?t=20s)</td>
+    <td markdown="span">[An Imitation Learning Approach for Truck-Loading Operations in Backhoe Machines](/publications/backhoe12clawar.pdf). **C. Mastalli**, J. Cappelletto, R. Acuña, A. Terrones and G. Fernández-López.
+    <br> *International Conference on Climbing and Walking Robots and The Support Technologies for Mobile Machines (CLAWAR), 2012*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/control_stability.png" align="right" alt="Drawing" style="height: 60px; margin:0px 10px"/>](https://youtu.be/72QKPQGD8A4?t=20s)</td>
+    <td markdown="span">[Asymptotic Stability Method for PID Controller Tuning in a Backhoe Machine](/publications/pidstability13dsc.pdf). **C. Mastalli**, D. Ralev, N. Certad and G. Fernández-López.
+    <br> *Dynamic and System Conference (DSC-13), 2013*</td>
+  </tr>
+  </tbody>
+  </table>
+
