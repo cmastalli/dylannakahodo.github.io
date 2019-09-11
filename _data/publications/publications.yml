@@ -2,7 +2,7 @@ papers: >
 
   You can find a short description and extra material of each paper by clicking on the title.
 
-  #### Journals
+  #### Pre-prints
 
   <table>
   <colgroup>
@@ -11,12 +11,29 @@ papers: >
   </colgroup>
   <tbody>
   <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
+    <td markdown="span">[Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control](/publications/crocoddyl20unpub.html).
+    **C. Mastalli**, R. Budhiraja, W. Merkt, G. Saurel, B. Hammoud, M. Naveau, J. Carpentier, S. Vijayakumar and N. Mansard
+    <br> *(under-review)*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
     <td markdown="span"> [<img src="/assets/img/publications/avoiding_slippage-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
     <td markdown="span">[Motion planning for quadrupedal locomotion: coupled planning, terrain mapping and whole-body control](/publications/locomotion17unpub.html).
     **C. Mastalli**, M. Focchi, I. Havoutis, D. G. Caldwell and C. Semini
     <br> *(under-review)*</td>
   </tr>
-  <tr height ="10px"></tr>  
+  </tbody>
+  </table>
+
+  #### Journals
+
+  <table>
+  <colgroup>
+    <col width="20%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/wbcontrol-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=TODO)</td>
     <td markdown="span">[Passive Whole-body Control for Quadruped Robots: Experimental Validation over Challenging Terrain](/publications/wbcontrol18ral.html).

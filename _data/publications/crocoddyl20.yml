@@ -1,0 +1,21 @@
+research: >
+
+  #### [Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control (under-review)](/publications/crocoddyl20unpub.pdf)
+  
+  <img src="/assets/img/publications/highly_dynamic_maneuvers.png" alt="Drawing" style="width: 100%;"/>
+
+  <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
+    width="56%" height="237"
+    src="https://youtube.com/embed/rZ135Dw92No"
+    style="float: right; "
+    marginwidth="10">
+  </iframe>
+
+  We introduce Crocoddyl (Contact RObot COntrol by Differential DYnamic Library), an open-source framework tailored for efficient multi-contact optimal control. Crocoddyl efficiently computes the state trajectory and the control policy for a given predefined sequence of contacts. Its efficiency is due to the use of sparse analytical derivatives, exploitation of the problem structure, and data sharing. It employs differential geometry to properly describe the state of any geometrical system, e.g. floating-base systems. We have unified dynamics, costs, and constraints into a single concept — action — for greater efficiency and easy prototyping. Additionally, we propose a novel multiple-shooting method called Feasibility-prone Differential Dynamic Programming (FDDP). Our novel method shows a greater globalization strategy compared to classical Differential Dynamic Programming (DDP) algorithms, and it has similar numerical behavior to state-of-the-art multiple-shooting methods. However, our method does not increase the computational complexity typically encountered by adding extra variables to describe the gaps in the dynamics. Concretely, we propose two modifications to the classical DDP algorithm. First, the backward pass accepts infeasible state-control trajectories. Second, the rollout keeps the gaps open during the early “exploratory” iterations (as expected in multiple-shooting methods). We showcase the performance of our framework using different tasks. With our method, we can compute highly-dynamic maneuvers for legged robots (e.g. jumping, front-flip) in the order of milliseconds.
+
+  <a href="/publications/crocoddyl20unpub.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/crocoddyl20unpub.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
