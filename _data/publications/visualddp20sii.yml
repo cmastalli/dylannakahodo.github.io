@@ -1,0 +1,14 @@
+research: >
+
+  #### [Motion Planning with Multi-Contact and Visual Servoing on Humanoid Robots (SII)](/publications/visualddp20sii.pdf)
+  
+  <img src="/assets/img/publications/visual_ddp_postures.png" alt="Drawing" style="width: 100%;"/>
+
+  This paper describes the implementation of a motion generation pipeline motivated by vision for a TALOS humanoid robot. From a starting configuration and given a set of visual features and their desired values, the problem is to find a motion which makes the robot reach the desired values of the visual features. In order to achieve a feasible Gazebo simulation with the targeted robot, we had to use a multicontact planner, a Differential Dynamic Programming (DDP) algorithm, and a stabilizer. The multicontact planner provides a set of contacts and dynamically consistent trajectories for the Center-Of-Mass (CoM) and the Center-Of-Pressure (CoP). It provides a structure to initialize a DDP algorithm which, in turn, provides a dynamically consistent trajectory for all the joints as it integrates all the dynamics of the robot, together with rigid contact models and the visual task. Tested on Gazebo the resulting trajectory had to be stabilized with a state-of-the-art algorithm to be successful.
+
+  <a href="/publications/visualddp20sii.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/visualddp20sii.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
