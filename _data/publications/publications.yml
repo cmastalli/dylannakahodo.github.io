@@ -11,13 +11,6 @@ papers: >
   </colgroup>
   <tbody>
   <tr>
-    <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
-    <td markdown="span">[Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control](/publications/crocoddyl20unpub.html).
-    **C. Mastalli**, R. Budhiraja, W. Merkt, G. Saurel, B. Hammoud, M. Naveau, J. Carpentier, S. Vijayakumar and N. Mansard
-    <br> *(under-review)*</td>
-  </tr>
-  <tr height ="10px"></tr>
-  <tr>
     <td markdown="span"> [<img src="/assets/img/publications/avoiding_slippage-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
     <td markdown="span">[Motion planning for quadrupedal locomotion: coupled planning, terrain mapping and whole-body control](/publications/locomotion17unpub.html).
     **C. Mastalli**, M. Focchi, I. Havoutis, D. G. Caldwell and C. Semini
@@ -73,6 +66,13 @@ papers: >
     <col width="80%" />
   </colgroup>
   <tbody>
+  <tr>
+    <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
+    <td markdown="span">[Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control](/publications/crocoddyl20icra.html).
+    **C. Mastalli**, R. Budhiraja, W. Merkt, G. Saurel, B. Hammoud, M. Naveau, J. Carpentier, L. Righetti, S. Vijayakumar and N. Mansard
+    <br> *IEEE International Conference on Robotics and Automation (ICRA)*</td>
+  </tr>
+  <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/bipedal_walk-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=79bb2KTULrw)</td>
     <td markdown="span">[Differential Dynamic Programming for Multi-Phase Rigid Contact Dynamics](/publications/mddp18.html).
