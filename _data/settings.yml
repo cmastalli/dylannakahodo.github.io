@@ -3,7 +3,7 @@
 
 menu:
 #- {name: 'About', url: ''}
-- {name: 'Research', url: 'publications.html'}
+- {name: 'Publications', url: 'publications.html'}
 - {name: 'Software', url: 'software.html'}
 #- {name: 'Projects', url: 'projects.html'}
 - {name: 'Contact', url: 'contact.html'}
@@ -47,14 +47,49 @@ about: >
 
   <p class="lead" style="font-variant:small-caps">
       Optimal Control - Motion Planning - Trajectory Optimization<br />
-      Reinforcement Learning - Legged Robots - Perception
+      Reinforcement Learning - Machine Learning - Legged Robots
   </p>
 
   I am a robotics researcher working in the interception of model predictive control and machine learning for motor control in legged robots. The aim of my research is to enable robots to move everywhere. In particular, I am focused on the problem of loco-manipulation tasks since it combines the main challenges in robot mobility. My research combines the formalism of model-base approach with the exploration of vast robot's data.
   
     
-  I completed my PhD on "[Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain](/publications/thesis.html)" in April 2017 in the [Dynamic Legged System lab](https://dls.iit.it/) at Istituto Italiano di Tecnologia. After that, I served as Research Fellow from April to December 2017. During this period, I mainly contributed to planning, perception and control framework for legged locomotion on challenging terrain. I also designed a considerably part of the HyQ's software framework. In my career, I have spent fruitful time in different European research institutions: IIT (Genova), ETH Zurich, LAAS-CNRS and The University of Edinburgh.
+  I completed my PhD on "[Planning and Execution of Dynamic Whole-Body Locomotion on Challenging Terrain](/publications/thesis.html)" in April 2017 in the [Dynamic Legged System lab](https://dls.iit.it/) at Istituto Italiano di Tecnologia. After that, I served as Research Fellow from April to December 2017. During this period, I mainly contributed to planning, perception and control framework for legged locomotion on challenging terrain. I also designed a considerably part of the HyQ's software framework. In my career, I have spent fruitful time in different European research institutions: IIT (Genova), ETH Zurich, LAAS-CNRS, The University of Edinburgh and Tha Alan Turing Institute.
 
+  #### Selected Publications
+
+    <table>
+    <colgroup>
+      <col width="20%" />
+      <col width="80%" />
+    </colgroup>
+    <tbody>
+    <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 100px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
+    <td markdown="span">[Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control](/publications/crocoddyl20icra.html).
+    **C. Mastalli**, R. Budhiraja, W. Merkt, G. Saurel, B. Hammoud, M. Naveau, J. Carpentier, L. Righetti, S. Vijayakumar and N. Mansard
+    <br> *IEEE International Conference on Robotics and Automation (ICRA)*</td>
+    
+    <tr height ="10px"></tr>
+    
+    <td markdown="span"> [<img src="/assets/img/publications/coupled_plan-compressed.gif" align="right" alt="Drawing" style="height: 100px; margin:0px 10px"/>](https://www.youtube.com/watch?v=79bb2KTULrw)</td>
+    <td markdown="span">[Trajectory and Foothold Optimization using Low-Dimensional Models for Rough Terrain Locomotion](/publications/coupled17icra.html).
+    **C. Mastalli**, M. Focchi, I. Havoutis, A. Radulescu, S. Calinon, J. Buchli, D. G. Caldwell and C. Semini
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
+    
+    <tr height ="10px"></tr>
+    
+    <td markdown="span"> [<img src="/assets/img/publications/torque_limits-compressed.gif" align="right" alt="Drawing" style="height: 100px; margin:0px 10px"/>](https://www.youtube.com/watch?v=RXIAQJx5938&t=2s)</td>
+    <td markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/publications/gait17ral.html).
+    B. Aceituno, **C. Mastalli**, H. Dai, M. Focchi, A. Radulescu, D. G. Caldwell, J. Cappelletto, J. C. Grieco, G. Fernandez and C. Semini
+    <br> *IEEE Robotics and Automation Letters (RA-L), 2017*</td>
+
+    <tr height ="10px"></tr>
+
+    <td markdown="span"> [<img src="/assets/img/publications/fwp_walk-compressed.gif" align="right" alt="Drawing" style="height: 100px; margin:0px 10px"/>](https://www.youtube.com/watch?v=X36PLdTNr6U)</td>
+    <td markdown="span">[Application of Wrench based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots](/publications/feasibility18ral.html).
+    R. Orsolino, M. Focchi, **C. Mastalli**, H. Dai, D. G. Caldwell and C. Semini
+    <br> *IEEE Robotics and Automation Letters (RA-L), 2018*</td>
+    </tbody>
+    </table>
 
 #-------------------------------
 # Research Section
