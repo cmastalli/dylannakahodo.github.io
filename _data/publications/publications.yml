@@ -31,21 +31,21 @@ papers: >
     <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
     <td markdown="span">[Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control](/publications/crocoddyl20icra.html).
     **C. Mastalli**, R. Budhiraja, W. Merkt, G. Saurel, B. Hammoud, M. Naveau, J. Carpentier, L. Righetti, S. Vijayakumar and N. Mansard
-    <br> *IEEE International Conference on Robotics and Automation (ICRA)*</td>
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2020*</td>
   </tr>
   <!--- <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
     <td markdown="span">[Learning How to Walk: Warm-starting Optimal Control Solverwith Memory of Motion](/publications/crocoddyl20icra.html).
     T. Lembono, **C. Mastalli**, P. Fernbach, N. Mansard and S. Calinon
-    <br> *IEEE International Conference on Robotics and Automation (ICRA)*</td>
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2020*</td>
   </tr>-->
   <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> <img src="/assets/img/publications/visual_ddp.png" align="right" alt="Drawing" style="height: 70px; margin:0px 50px"/></td>
     <td markdown="span">[Motion Planning with Multi-Contact and Visual Servoing on Humanoid Robots](/publications/visualddp20sii.html).
     K. Giraud-Esclasse, P. Fernbach, G. Buondonno, **C. Mastalli** and O. Stasse
-    <br> *International Symposium on System Integration (SII)*</td>
+    <br> *International Symposium on System Integration (SII), 2020*</td>
   </tr>
   </tbody>
   </table>
