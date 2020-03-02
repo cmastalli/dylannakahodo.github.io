@@ -33,13 +33,13 @@ papers: >
     **C. Mastalli**, R. Budhiraja, W. Merkt, G. Saurel, B. Hammoud, M. Naveau, J. Carpentier, L. Righetti, S. Vijayakumar and N. Mansard
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2020*</td>
   </tr>
-  <!--- <tr height ="10px"></tr>
+  <tr height ="10px"></tr>
   <tr>
-    <td markdown="span"> [<img src="/assets/img/publications/talos_jumps-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
-    <td markdown="span">[Learning How to Walk: Warm-starting Optimal Control Solverwith Memory of Motion](/publications/crocoddyl20icra.html).
+    <td markdown="span"> [<img src="/assets/img/publications/learning_walk.png" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
+    <td markdown="span">[Learning How to Walk: Warm-starting Optimal Control Solverwith Memory of Motion](/publications/learningwalk20icra.html).
     T. Lembono, **C. Mastalli**, P. Fernbach, N. Mansard and S. Calinon
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2020*</td>
-  </tr>-->
+  </tr>
   <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> <img src="/assets/img/publications/visual_ddp.png" align="right" alt="Drawing" style="height: 70px; margin:0px 50px"/></td>

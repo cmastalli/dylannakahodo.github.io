@@ -1,0 +1,21 @@
+research: >
+
+  #### [Learning How to Walk: Warm-starting Optimal Control Solver with Memory of Motion (ICRA)](/publications/learningwalk20icra.pdf)
+
+  <img src="/assets/img/publications/learning_walk.png" alt="Drawing" style="width: 100%;"/>
+
+  <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
+    width="56%" height="237"
+    src="https://youtube.com/embed/Io0B0ReDkkE"
+    style="float: right; "
+    marginwidth="10">
+  </iframe>
+
+  In this paper, we propose a framework to build a memory of motion for warm-starting an optimal control solver for the locomotion task of a humanoid robot. We use HPP Loco3D, a versatile locomotion planner, to generate offline a set of dynamically consistent whole-body trajectory to be stored as the memory of motion. The learning problem is formulated as a regression problem to predict a single-step motion given the desired contact locations, which is used as a building block for producing multi-step motions. The predicted motion is then used as a warm-start for the fast optimal control solver Crocoddyl. We have shown that the approach manages to reduce the required number of iterations to reach the convergence from ∼9.5 to only ∼3.0 iterations for the single-step motion and from ∼6.2 to ∼4.5 iterations for the multi-step motion, while maintaining the solution’s quality.
+
+  <a href="/publications/learningwalk20icra.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/learningwalk20icra.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
