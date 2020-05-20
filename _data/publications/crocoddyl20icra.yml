@@ -19,3 +19,12 @@ research: >
   <a href="/publications/bibtex/crocoddyl20icra.bib">
     <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>
+
+  <div style="float: center; text-align:center;">
+  <iframe src="//slides.com/cmastalli/crocoddyl20icra/embed"
+          width="76.8%" height="420" scrolling="no" frameborder="0"
+          webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  </iframe>
+  </div>
+
+  You can find the video of this presentation in [https://youtu.be/nTeiHioEO4w](https://youtu.be/nTeiHioEO4w).
