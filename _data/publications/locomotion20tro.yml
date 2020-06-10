@@ -1,8 +1,10 @@
 research: >
 
-  #### [Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control (under-review)](/publications/locomotion17unpub.pdf)
+  #### [Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control (T-RO)](/publications/locomotion20tro.pdf)
   
   <img src="/assets/img/publications/sloppy_snapshots.png" alt="Drawing" style="width: 100%;"/>
+
+  <img src="/assets/img/publications/loco_planning.png" alt="Drawing" style="width: 100%;"/>
 
   <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
     width="56%" height="237"
@@ -13,9 +15,9 @@ research: >
 
   Planning whole-body motions while taking into account the terrain conditions is a challenging problem for legged robots since the terrain model might produce many local minima. Our coupled planning method uses stochastic and derivatives-free search to plan both foothold locations and horizontal motions due to the local minima produced by the terrain model. It jointly optimizes body motion, step duration and foothold selection, and it models the terrain as a cost-map. Due to the novel attitude planning method, the horizontal motion plans can be applied to various terrain conditions. The attitude planner ensures the robot stability by imposing limits to the angular acceleration. Our whole-body controller tracks compliantly trunk motions while avoiding slippage, as well as kinematic and torque limits. Despite the use of a simplified model, which is restricted to flat terrain, our approach shows remarkable capability to deal with a wide range of non-coplanar terrains. The results are validated by experimental trials and comparative evaluations in a series of terrains of progressively increasing complexity.
 
-  <a href="/publications/locomotion17unpub.pdf">
+  <a href="/publications/locomotion20tro.pdf">
     <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
   </a>
-  <a href="/publications/bibtex/locomotion17unpub.bib">
+  <a href="/publications/bibtex/locomotion20tro.bib">
     <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>

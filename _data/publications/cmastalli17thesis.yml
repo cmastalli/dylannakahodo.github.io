@@ -35,9 +35,9 @@ research: >
   <tbody>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/avoiding_slippage-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
-    <td markdown="span">[Motion planning for quadrupedal locomotion: coupled planning, terrain mapping and whole-body control](/publications/locomotion17unpub.pdf).
+    <td markdown="span">[Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control](/publications/locomotion20tro.html).
     **C. Mastalli**, M. Focchi, I. Havoutis, D. G. Caldwell and C. Semini
-    <br> *(under-review)*</td>
+    <br> *IEEE Transactions on Robotics (T-RO), 2020*</td>
   </tr>
   <tr height ="10px"></tr>  
   <tr>

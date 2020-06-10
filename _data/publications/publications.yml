@@ -2,7 +2,9 @@ papers: >
 
   You can find a short description and extra material of each paper by clicking on the title.
 
-  #### Pre-prints
+  <!--#### Pre-prints-->
+
+  #### 2020
 
   <table>
   <colgroup>
@@ -12,14 +14,12 @@ papers: >
   <tbody>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/avoiding_slippage-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=KI9x1GZWRwE)</td>
-    <td markdown="span">[Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control](/publications/locomotion17unpub.html).
+    <td markdown="span">[Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control](/publications/locomotion20tro.html).
     **C. Mastalli**, M. Focchi, I. Havoutis, D. G. Caldwell and C. Semini
-    <br> *(under-review)*</td>
+    <br> *IEEE Transactions on Robotics (T-RO), 2020*</td>
   </tr>
   </tbody>
   </table>
-
-  #### 2020
 
   <table>
   <colgroup>
