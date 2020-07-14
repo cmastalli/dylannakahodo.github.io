@@ -1,6 +1,6 @@
 research: >
 
-  #### [Automatic Gait Pattern Selection for Legged Robots (IROS)](/publications/gait20iros.pdf)
+  #### [Automatic Gait Pattern Selection for Legged Robots (IROS)](/publications/gaitselection20iros.pdf)
   
   <div style="float: center; text-align:center;">
   <img src="/assets/img/publications/gait_optimization.png" alt="Drawing" style="width: 50%;"/>
@@ -17,9 +17,9 @@ research: >
 
   When synthesizing legged locomotion an important issue is the combinatorial selection of the appropriate gait pattern. Though usually manually defined, the gait pattern plays an important role in the feasibility and optimality of a motion with respect to a task. Replacing human intuition with an automatic and efficient mean of selecting the right gait pattern would allow for more autonomous robots, also able to adapt their contact selection strategy according to environmental changes. Towards this aim, we study the possibility of creating a map for optimal gait pattern selection based on  task and environment specifications. For a 2D half-cheetah model and the 3D quadruped robot ANYmal, we show a direct mapping between a given task and an optimal gait can indeed be established. This allows us to use supervised learning to capture the structure of the map. Additionally, we empirically show that warm-starting trajectory optimization problems with an estimated initial guess relevant to the gait region of a task can lead to 30 to 60 times faster convergence speed than randomly initialized problems.
 
-  <a href="/publications/gait20iros.pdf">
+  <a href="/publications/gaitselection20iros.pdf">
     <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
   </a>
-  <a href="/publications/bibtex/gait20iros.bib">
+  <a href="/publications/bibtex/gaitselection20iros.bib">
     <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
   </a>

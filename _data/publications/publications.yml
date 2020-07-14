@@ -43,7 +43,7 @@ papers: >
   <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> <img src="/assets/img/publications/gait_optimization.png" align="right" alt="Drawing" style="height: 70px; margin:0px 30px"/></td>
-    <td markdown="span">[Automatic Gait Pattern Selection for Legged Robots](/publications/gait20iros.html).
+    <td markdown="span">[Automatic Gait Pattern Selection for Legged Robots](/publications/gaitselection20iros.html).
     J. Wang, I. Chatzinikolaidis, **C. Mastalli**, W. Wolfslag, G. Xin, S. Tonneau and S. Vijayakumar
     <br> *IEEE International Conference on Intelligent Robots and Systems (IROS), 2020*</td>
   </tr>
