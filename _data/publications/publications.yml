@@ -36,7 +36,7 @@ papers: >
   <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> [<img src="/assets/img/publications/learning_walk.png" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://youtu.be/rZ135Dw92No)</td>
-    <td markdown="span">[Learning How to Walk: Warm-starting Optimal Control Solverwith Memory of Motion](/publications/learningwalk20icra.html).
+    <td markdown="span">[Learning How to Walk: Warm-starting Optimal Control Solver with Memory of Motion](/publications/learningwalk20icra.html).
     T. Lembono, **C. Mastalli**, P. Fernbach, N. Mansard and S. Calinon
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2020*</td>
   </tr>
