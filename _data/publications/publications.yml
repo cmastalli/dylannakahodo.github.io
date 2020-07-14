@@ -47,7 +47,13 @@ papers: >
     J. Wang, I. Chatzinikolaidis, **C. Mastalli**, W. Wolfslag, G. Xin, S. Tonneau and S. Vijayakumar
     <br> *IEEE International Conference on Intelligent Robots and Systems (IROS), 2020*</td>
   </tr>
-
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> <img src="/assets/img/publications/aerial_navigation.png" align="right" alt="Drawing" style="height: 70px; margin:0px 30px"/></td>
+    <td markdown="span">[Squash-Box Feasibility Driven Differential Dynamic Programming](/publications/squashddp20iros.html).
+    J. Marti-Saumell, J. Solà, **C. Mastalli** and A. Santamaria-Navarro
+    <br> *IEEE International Conference on Intelligent Robots and Systems (IROS), 2020*</td>
+  </tr>
   <tr height ="10px"></tr>
   <tr>
     <td markdown="span"> <img src="/assets/img/publications/visual_ddp.png" align="right" alt="Drawing" style="height: 70px; margin:0px 50px"/></td>
