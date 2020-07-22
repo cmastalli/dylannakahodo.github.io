@@ -1,0 +1,27 @@
+research: >
+
+  #### [A Direct-Indirect Hybridization Approach to Control-Limited DDP](/publications/boxfddp20unpublished.pdf)
+  
+  <div style="float: center; text-align:center;">
+  <img src="/assets/img/publications/quadrotor_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/anymal-jump_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/taichi_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/monkey_bar_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  </div>
+
+  <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
+    width="56%" height="237"
+    src="https://youtube.com/embed/iTbUXqxksBM"
+    style="float: right; "
+    marginwidth="10">
+  </iframe>
+
+
+  Optimal control is a widely used tool for synthesizing motions and controls for user-defined tasks under physical constraints. A common approach is to formulate it using direct multiple-shooting and then to use off-the-shelf nonlinear programming solvers that can easily handle arbitrary constraints on the controls and states. However, these methods are not fast enough for many robotics applications such as real-time humanoid motor control. Exploiting the sparse structure of optimal control problem, such as in Differential Dynamic Programming (DDP), has proven to significantly boost the computational efficiency, and recent works have been focused on handling arbitrary constraints. Despite that, DDP has been associated with poor numerical convergence, particularly when considering long time horizons. One of the main reasons is due to system instabilities and poor warm-starting (only controls). This paper presents control-limited Feasibility-driven DDP (Box-FDDP), a solver that incorporates a direct-indirect hybridization of the control-limited DDP algorithm. Concretely, the forward and backward passes handle feasibility and control limits. We showcase the impact and importance of our method on a set of challenging optimal control problems against the Box-DDP and squashing-function approach.
+
+  <a href="/publications/boxfddp20unpublished.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/boxfddp20unpublished.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
