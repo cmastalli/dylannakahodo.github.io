@@ -6,15 +6,14 @@ research: >
   <img src="/assets/img/publications/aerial_navigation.png" alt="Drawing" style="width: 70%;"/>
   </div>
 
-  <!--<iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
+  <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
     width="56%" height="237"
-    src="https://youtube.com/embed/AkoD8u0dgEw"
+    src="https://youtube.com/embed/zZbP8MgFNgA"
     style="float: right; "
     marginwidth="10">
-  </iframe>-->
+  </iframe>
 
-
-  Recently, Differential Dynamic Programming (DDP) and other similar algorithms have become the chosen solvers when performing non-linear Model Predictive Control (nMPC)  with modern robotic devices. This is due to they considerably improve the computation speed when compared with off-the-self Non-Linear Programming (NLP) solvers. However, they cannot handle constraints and also are known to have poor convergence capabilities. In this paper, we propose a method to solve the optimal control problem with control bounds through a squashing function (i.e., a sigmoid which is bounded by construction). In other works has been shown that na\"ive uses of squashing function damages the convergence rate. To tackle that, we first propose to add a quadratic barrier that avoids the difficulty of the plateau produced by the sigmoid. Second, we add an outer loop to make the optimal control problem with the squashing function converge to the original control-bounded problem. To validate our method, we present results of several simulation case studies for different types of platforms including a multi-rotor, biped, quadruped and a humanoid robots.
+  Recently, Differential Dynamic Programming (DDP) and other similar algorithms have become the solvers of choice when performing non-linear Model Predictive Control (nMPC) with modern robotic devices. The reason is that they have a lower computational cost per iteration when compared with off-the-shelf Non-Linear Programming (NLP) solvers, which enables its online operation. However, they cannot handle constraints, and are known to have poor convergence capabilities. In this paper, we propose a method to solve the optimal control problem with control bounds through a squashing function (i.e., a sigmoid, which is bounded by construction). It has been shown that a naive use of squashing functions damage the convergence rate. To tackle this, we first propose to add a quadratic barrier that avoids the difficulty of the plateau produced by the sigmoid. Second, we add an outer loop that adapts both the sigmoid and the barrier; it makes the optimal control problem with the squashing function converge to the original control-bounded problem. To validate our method, we present simulation results for different types of platforms including a multi-rotor, a biped, a quadruped and a humanoid robot.
 
 
   <a href="/publications/squashddp20iros.pdf">
