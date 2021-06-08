@@ -1,0 +1,14 @@
+research: >
+
+  #### [Design, analysis and control of the series-parallel hybrid RH5 humanoid robot (ICHR)](/publications/rh5robot21ichr.pdf)
+  
+  <img src="/assets/img/publications/rh5robot.png" alt="Drawing" style="width: 100%;"/>
+
+  Last decades of humanoid research has shown that humanoids developed for high dynamic performance require a stiff structure and optimal distribution of mass–inertial properties. Humanoid robots built with a purely tree type architecture tend to be bulky and usually suffer from velocity and force/torque limitations. This paper presents a novel series-parallel hybrid humanoid called RH5 which is 2 m tall and weighs only 62.5 kg capable of performing heavy-duty dynamic tasks with 5 kg payloads in each hand. The analysis and control of this humanoid is performed with whole-body trajectory optimization technique based on differential dynamic programming (DDP). Additionally, we present an improved contact stability soft-constrained DDP algorithm which is able to generate physically consistent walking trajectories for the humanoid that can be tracked via a simple PD position control in a physics simulator. Finally, we showcase preliminary experimental results on the RH5 humanoid robot.
+
+  <a href="/publications/rh5robot21ichr.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/rh5robot21ichr.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>

@@ -1,0 +1,29 @@
+research: >
+
+  #### [A Direct-Indirect Hybridization Approach to Control-Limited DDP](/publications/boxfddp21unpublished.pdf)
+  
+  <div style="float: center; text-align:center;">
+  <img src="/assets/img/publications/quadrotor_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/taichi_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/anymal-jump_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/bar_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/hopping_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  <img src="/assets/img/publications/monkey_bar_snapshots.png" alt="Drawing" style="width: 100%;"/>
+  </div>
+
+  <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
+    width="56%" height="237"
+    src="https://youtube.com/embed/gHcxBjLM9jk"
+    style="float: right; "
+    marginwidth="10">
+  </iframe>
+
+
+  Differential Dynamic Programming (DDP) is an indirect method for trajectory optimization. Its efficiency derives from the exploitation of temporal structure (inherent to optimal control problems) and explicit roll-out/integration of the system dynamics. However, it suffers from numerical instability and, when compared to direct methods, it has limited initialization options (allows initialization  of controls, but not of states) and lacks proper handling of control constraints. These limitations are due to the fact that DDP is a single shooting algorithm. In thiswork, we tackle these issues with a direct-indirect hybridization approach that is primarily driven by the dynamic feasibility of the optimal control problem. Our feasibility search emulates thenumerical resolution of a direct transcription problem with onlydynamics constraints, namely a multiple shooting formulation. We show that our approach has better numerical convergence than BOX-DDP (a shooting method), and that its  convergence rate and runtime performance are competitive with state-of-the-art direct transcription formulations solved using the interior point and active set algorithms available in KNITRO. We furthershow that our approach decreases the dynamic feasibility error monotonically—as in state-of-the-art nonlinear programming algorithms. We demonstrate the benefits of our hybrid approach by  generating complex and athletic motions for quadruped and humanoid robots.
+
+  <a href="/publications/boxfddp21unpublished.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/boxfddp21unpublished.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
